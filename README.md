@@ -64,7 +64,7 @@ La aplicación automatiza el comportamiento de los materiales basándose en la A
 
 ---
 
-## 📍 3. Caso de Estudio Inicial Central: Empezó siendo monitor local/regional  Eje Cojedes (Tinaquillo y Tinaco) pero en esta última version se ha extebdido el monitoreo a las principales localidades estadales de Venezuela
+## 📍 3. Caso de Estudio Inicial: Empezó siendo monitor local/regional  Eje Cojedes (Tinaquillo y Tinaco) pero en esta última version se ha extendido el monitoreo a las principales localidades estadales de Venezuela
 
 El simulador posee un HUD analítico estratégico para Venezuela para modelar el comportamiento del sismo costero de **7.5 Mw**:
 *   **Límite Crítico Interno:** Demuestra como ejemplo, que Tinaquillo y Tinaco se ubicaron a ~90 km de distancia, en la frontera misma del radio destructivo de 95 km. Debido a su factor de suelo aluvial intermedio (~1.1), experimentaron una leve amplificación local, provocando las fisuras documentadas en mampostería informal y en la Iglesia Nuestra Señora del Socorro.
